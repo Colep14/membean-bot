@@ -19,4 +19,4 @@ Your username will be on the far right under your class.
 **Password**
 You should know this, unless you login with google single sign on.
 If you do use SSO, then simply update your password, and now you know it!
-![Updating your password.](https://github.com/Colep14/membean-bot/blob/main/password.png?raw=true)
+![Updating your password.](https://github.com/Colep14/membean-bot/blob/main/pwd.png?raw=true)
