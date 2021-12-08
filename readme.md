@@ -1,9 +1,10 @@
 # membean-bot
-This is an unfinished bot to do membean made in node.js using puppeteer.
+This is a (currently non-functional) bot to do membean made in node.js using puppeteer.
 This might never be finished.
 
 ## How it works
-Instead of clicking that hidden button that gets the answer correct and marks you as cheating, this method will 
+Instead of clicking that hidden button that gets the answer correct and marks you as cheating, this method will get the question or word hint and check it against its dictionary.
+This is indistingishable from a regular user.
 
 ## Setup
 
